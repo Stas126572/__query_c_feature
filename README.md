@@ -2,9 +2,9 @@
 
 **Document number:** Nxxxx (To be assigned by Convener)  
 **Date:** 2026-05-14  
-**Author:** @YOUR_GITHUB_USERNAME (Independent Researcher)  
-**Project Link:** github.com  
-**Email:** YOUR_ANONYMOUS_EMAIL@domain.com  
+**Author:** Stas126572 (Independent Researcher)  
+**Project Link:** https://github.com/Stas126572/__query_c_feature
+**Email:** c_query_feature@mail.ru 
 **Target:** C2Y  
 
 ---
