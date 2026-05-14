@@ -4,7 +4,7 @@
 **Date:** 2026-05-14  
 **Author:** Stas126572 (Independent Researcher)  
 **Project Link:** https://github.com/Stas126572/__query_c_feature
-**Email:** c_query_feature@mail.ru 
+**Email:** c_query_feature@mail.ru
 **Target:** C2Y  
 
 ---
